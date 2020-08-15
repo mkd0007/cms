@@ -1,0 +1,9 @@
+Steps to setup database
+
+Xammp is required to continue that steps
+
+First step :- Create a new database name is mk_cms.
+Second step :- Import a mk_cms.sql file on the mk_cms database.
+
+Successfully Complete Steps 
+Browse cms php code. 
