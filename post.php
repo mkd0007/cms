@@ -203,3 +203,10 @@
      include "includes/footer.php";
 ?>
      
+<script>
+   
+    var element2=document.getElementsByTagName("img");
+    for(var i=0;i<element2.length;i++)
+            element2[i].classList.add("responsive-img");
+    
+</script>
